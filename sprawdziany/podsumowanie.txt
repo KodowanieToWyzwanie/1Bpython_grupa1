@@ -1,0 +1,48 @@
+Zadanie 1WYL – Wybrana litera 
+
+Zadanie Wczytaj napis i wyświetl z niego literę o konkretnym numerze. Dane W pierwszym wierszu wyrażenie. W drugim wierszu liczba – numer litery, która ma być wyświetlona. Wyniki Jedna litera – litera o podanym numerze – lub słowo ERROR jeśli numer wykracza poza długość napisu. 
+
+Przykład Dla danych Informatyka 5 Poprawnym wynikiem jest M Dla danych Informatyka 20 Poprawnym wynikiem jest ERROR
+
+
+
+
+Patyki
+
+Limit pamięci: 32 MB
+
+Bajtuś znalazł w lesie 3 patyki. Teraz chciałby wiedzieć, czy może z nich zbudować trójkąt prostokątny lub równoboczny. Bajtuś nie może łamać patyków, może je wykorzystać tylko w całości.
+
+Wejście
+
+Pierwszy wiersz wejścia zawiera trzy liczby całkowite  (), oznaczające odpowiednio długości pierwszego, drugiego i trzeciego patyka.
+
+Wyjście
+
+Pierwszy i jedyny wiersz wyjścia powinien zawierać jedną liczbę: 0 - jeśli Bajtuś nie może zbudować, ani trójkąta prostokątnego ani równobocznego, 1 - jeśli Bajtuś może zbudować tylko trójkąt prostokątny, 2 - jeśli Bajtuś może zbudować tylko trójkąt równoboczny,
+
+Przykład
+
+Dla danych wejściowych:
+
+3 4 5
+
+poprawną odpowiedzią jest:
+
+1
+
+
+
+Napisz program, który dla zadanych dwóch liczb określi, czy pierwsza jest wielokrotnością drugiej.
+
+
+
+Program sprawdzający czy słowo jest palindromem
+
+
+
+Podaj dzielniki liczby podanej przez użytkownika 
+Napisz skrypt, który wypisze kolejne liczby parzyste w przedziale 1, 100 włącznie
+
+Oblicz najmniejszy wspólny dzielnik dla dwóch podanych przez użytkownika liczb
+
